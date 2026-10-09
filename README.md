@@ -401,7 +401,7 @@ Issues and pull requests are welcome.
 
 ## Author
 
-**[Your Name]**
+**[Sunjal Singh Sammal]**
 
 - GitHub: [sunjal21](https://github.com/sunjal21)
 - LinkedIn: [Sunjal Singh Sammal](https://www.linkedin.com/in/sunjal-sammal/)
